@@ -32,6 +32,32 @@ A Python-based highway engineering decision-support application for analyzing cl
 
 A Python-based highway engineering decision-support application for analyzing classified traffic data, estimating cumulative design traffic, performing sensitivity and scenario analyses, screening verified flexible pavement catalogue cases, preparing IITPAVE structural inputs, and generating engineering PDF reports through an interactive Streamlit dashboard.
 
+## Application Screenshots
+
+### Project Overview
+
+The overview dashboard summarizes the traffic dataset, average commercial traffic, survey duration, data source, and validation results.
+
+![Project Overview Dashboard](assets/screenshots/overview-dashboard.png)
+
+### IRC:37 Design Traffic Analysis
+
+The design-traffic module allows interactive modification of growth rate, design period, road-opening delay, Vehicle Damage Factor, and lateral distribution factor, with automatic recalculation of cumulative design traffic.
+
+![Design Traffic Analysis](assets/screenshots/design-traffic.png)
+
+### Sensitivity Analysis
+
+The sensitivity-analysis module evaluates the effect of engineering input variations and provides a range-based parameter influence ranking for decision support.
+
+![Sensitivity Analysis](assets/screenshots/sensitivity-analysis.png)
+
+### Pavement Catalogue Screening and IITPAVE Preparation
+
+The pavement module performs screening against the currently implemented verified IRC catalogue cases and prepares structural inputs for subsequent IITPAVE analysis.
+
+![Pavement Catalogue Screening](assets/screenshots/pavement-screening.png)
+
 ## Project Objectives
 
 The application is developed to:
