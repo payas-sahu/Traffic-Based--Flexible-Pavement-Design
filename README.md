@@ -40,11 +40,11 @@ The overview dashboard summarizes the traffic dataset, average commercial traffi
 
 ![Project Overview Dashboard](assets/screenshots/overview-dashboard.png)
 
-### IRC:37 Design Traffic Analysis
+### Pavement Catalogue Screening and IITPAVE Preparation
 
-The design-traffic module allows interactive modification of growth rate, design period, road-opening delay, Vehicle Damage Factor, and lateral distribution factor, with automatic recalculation of cumulative design traffic.
+The pavement module performs screening against the currently implemented verified IRC catalogue cases and prepares structural inputs for subsequent IITPAVE analysis.
 
-![Design Traffic Analysis](assets/screenshots/design-traffic.png)
+![Pavement Catalogue Screening](assets/screenshots/pavement-screening.png)
 
 ### Sensitivity Analysis
 
@@ -52,11 +52,7 @@ The sensitivity-analysis module evaluates the effect of engineering input variat
 
 ![Sensitivity Analysis](assets/screenshots/sensitivity-analysis.png)
 
-### Pavement Catalogue Screening and IITPAVE Preparation
 
-The pavement module performs screening against the currently implemented verified IRC catalogue cases and prepares structural inputs for subsequent IITPAVE analysis.
-
-![Pavement Catalogue Screening](assets/screenshots/pavement-screening.png)
 
 ## Project Objectives
 
